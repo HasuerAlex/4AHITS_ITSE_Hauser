@@ -29,7 +29,9 @@
    4.3 Erklärung
 
 
-## Aufgaben bild
+## Aufgaben 
+
+![](../Images/Aufgabe_Bild)
 
 ## Aufgabe 1
 
