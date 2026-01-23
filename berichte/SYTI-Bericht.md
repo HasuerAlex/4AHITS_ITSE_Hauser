@@ -6,32 +6,32 @@
 ### Datum: 06.11.2025
 ---
 
-## Inhaltzverzeichnis
+Inhaltsverzeichnis
 
-1.Aufgabe 1
-   1.1 Aufgabenstellung
-   1.2 Sourcecode
-   1.3 Erklärung
+1. Aufgabe 1: Anzeige des Tastenstatus
+   - Aufgabenstellung
+   - Sourcecode
+   - Erklärung
 
-2. Aufgabe 2
-   2.1 Aufgabenstellung
-   2.2 Sourcecode
-   2.3 Erklärung
+2. Aufgabe 2: Gespiegelte Tastenanzeige
+   - Aufgabenstellung
+   - Sourcecode
+   - Erklärung
 
-3. Aufgabe 3
-   3.1 Aufgabenstellung
-   3.2 Sourcecode
-   3.3 Erklärung
+3. Aufgabe 3: Ausgabe von LED-Mustern
+   - Aufgabenstellung
+   - Sourcecode
+   - Erklärung
 
-4. Aufgabe 4
-   4.1 Aufgabenstellung
-   4.2 Sourcecode
-   4.3 Erklärung
+4. Aufgabe 4: Flip-Flop mit Zustandsautomat
+   - Aufgabenstellung
+   - Sourcecode
+   - Erklärung
 
 
 ## Aufgaben 
 
-![](../Images/Aufgabe_Bild)
+![](../Images/Aufgaben_Bild.png)
 
 ## Aufgabe 1
 
